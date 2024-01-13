@@ -1,0 +1,14 @@
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\bin\Debug\net6.0\SoalDuaConsoleApp-SERA.exe
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\bin\Debug\net6.0\SoalDuaConsoleApp-SERA.deps.json
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\bin\Debug\net6.0\SoalDuaConsoleApp-SERA.runtimeconfig.json
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\bin\Debug\net6.0\SoalDuaConsoleApp-SERA.dll
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\bin\Debug\net6.0\SoalDuaConsoleApp-SERA.pdb
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.AssemblyInfoInputs.cache
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.AssemblyInfo.cs
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.csproj.CoreCompileInputs.cache
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.dll
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\refint\SoalDuaConsoleApp-SERA.dll
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.pdb
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\SoalDuaConsoleApp-SERA.genruntimeconfig.cache
+F:\SERA\New folder\SoalDuaConsoleApp-SERA\obj\Debug\net6.0\ref\SoalDuaConsoleApp-SERA.dll
